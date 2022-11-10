@@ -15,7 +15,7 @@ Technologies used:
 - Java Script
 
 A board that reacts to cursor movement. And randomly alternates color. Decorated with smooth animation.
-[see code](https://jsfiddle.net/AnastasiiaSo/sak1nvpj/2/)
+[see code](https://jsfiddle.net/AnastasiiaSo/nt457qsy/1/)
 
 Tasks for the coming weeks:
 - [ ] Game 
