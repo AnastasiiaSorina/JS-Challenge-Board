@@ -1,6 +1,6 @@
 const board = document.querySelector('#board')
-const colors = ['#00805d', '#36cae8', '#78ead3', '#f88451', '#dd0d03']
-const SQUARES_NUMBER = 500
+const colors = ['#7A9298', '#4E6E76', '#224A54', '#D6E8EC', '#C8E0E6', '#BAD8E0', '#89CDB7', '#62BC9F', '#3BAB87', '#F2DBD4', '#EDCFC6','#E9C3B8']
+const SQUARES_NUMBER = 900
 
 for (let i = 0; i < SQUARES_NUMBER; i++) {
     const square = document.createElement('div')
@@ -18,7 +18,7 @@ function setColor(element) {
 }
 
 function removeColor(element) {
-    element.style.backgroundColor = '#1d1d1d'
+    element.style.backgroundColor = '#3C3C3C'
 }
 
 function getRandomColor() {
